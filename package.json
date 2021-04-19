@@ -1,6 +1,6 @@
 {
-  "name": "my-portfolio",
-  "homepage": "https://victorandrad.github.io/my-portfolio/",
+  "name": "victorandrad.github.io",
+  "homepage": "https://victorandrad.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
