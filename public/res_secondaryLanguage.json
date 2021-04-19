@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hi",
+      "description": "👋 I'm Victor Andrade. I work with Angular and React front-end frameworks and Laravel back-end framework. What you are seeing is my website and my personal portfolio that contains some experiences and skills. If you liked what you saw please contact me at contato@victorandra.de :) Thanks 💜💚",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
       }
     },
     "projects": [
@@ -81,35 +81,40 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Followize",
+        "title": "Back-End Developer",
+        "years": "03.2021 - present",
+        "class": "fa-php", 
         "mainTech": [
-          "Angular 8/9/10"
+          "PHP"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "CQRS",
+          "Laravel",
+          "Commands",
+          "Queries",
+          "Postgres",
+          "Gitflow"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Nano Incub",
+        "title": "Mobile App Developer",
+        "years": "07.2018 - 02.2021",
+        "class": "fa-angular", 
         "mainTech": [
-          "Angular 7/8"
+          "Angular and PHP"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "TypeScript",
+          "Laravel",
+          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Ionic Framework",
+          "Repository Pattern",
+          "MySQL",
+          "Gitflow"
         ]
       }
     ]

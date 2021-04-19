@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Oi",
+      "description": "👋 Eu sou o Victor Andrade. Eu trabalho com os frameworks front-end Angular e React e framework back-end Laravel. O que você está vendo é meu site e meu portfólio pessoal que contém algumas experiências e skills. Se você gostou do que você viu entre em contato comigo pelo contato@victorandra.de :) Obrigado 💜💚",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
+        "about": "Sobre mim",
+        "projects": "Projetos",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experiência"
       }
     },
     "projects": [
@@ -81,37 +81,40 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Followize",
+        "title": "Desenvolvedor Back-End",
+        "years": "03.2021 - o momento",
+        "class": "fa-php", 
         "mainTech": [
-          "Angular 8/9/10"
+          "PHP"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CQRS",
+          "Laravel",
+          "Commands",
+          "Queries",
+          "Postgres",
+          "Gitflow"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Nano Incub",
+        "title": "Programador de aplicativos móveis",
+        "years": "07.2018 - 02.2021",
+        "class": "fa-angular", 
         "mainTech": [
-          "Angular 7/8"
+          "Angular e PHP"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "TypeScript",
+          "Laravel",
           "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Ionic Framework",
+          "Repository Pattern",
+          "MySQL",
+          "Gitflow"
         ]
       }
     ]
