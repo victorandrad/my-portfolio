@@ -1,0 +1,121 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Victor Andrade. I work with Angular and React front-end frameworks and Laravel back-end framework. What you are seeing is my website and my personal portfolio that contains some experiences and skills. If you liked what you saw please contact me at contato@victorandra.de :) Thanks 💜💚",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Followize",
+        "title": "Back-End Developer",
+        "years": "03.2021 - present",
+        "class": "fa-php", 
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "REST API",
+          "CQRS",
+          "Laravel",
+          "Commands",
+          "Queries",
+          "Postgres",
+          "Gitflow"
+        ]
+      },
+      {
+        "company": "Nano Incub",
+        "title": "Mobile App Developer",
+        "years": "07.2018 - 02.2021",
+        "class": "fa-angular", 
+        "mainTech": [
+          "Angular and PHP"
+        ],
+        "technologies": [
+          "TypeScript",
+          "Laravel",
+          "PHP",
+          "JavaScript",
+          "Ionic Framework",
+          "Repository Pattern",
+          "MySQL",
+          "Gitflow"
+        ]
+      }
+    ]
+  }
