@@ -59,6 +59,11 @@
           "level": "65"
         },
         {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "60"
+        },
+        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
