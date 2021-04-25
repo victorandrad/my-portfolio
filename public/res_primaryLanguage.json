@@ -11,26 +11,22 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Podcastr",
+        "startDate": "2021",
+        "description": "É uma aplicação desenvolvida em ReactJS através da NLW#5, onde foi integrado o NextJS para gerar páginas estáticas, nessa aplicação foram usados conceitos de estado, rotas, componentes e contextos. É basicamente um aplicativo para ouvir podcasts com controlador de player, e exibir detalhes do podcast.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/podcastr/p1.png",
+          "images/portfolio/podcastr/p2.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       },
